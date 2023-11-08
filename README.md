@@ -3,7 +3,7 @@
 
 
 <h3 align="left">About me</h3>
-As a second-year student studying ITC at Tecnologico de Monterrey Campus Guadalajara, I am constantly seeking out opportunities to push myself out of my comfort zone and grow as a professional. This drive for personal and professional development led me to an internship at Meta last summer as a Meta University Engineer, where I was able to apply my technical skills and problem-solving abilities to real-world projects. Also I will be interning at Google next summer!
+As a third-year student studying Computer Science at Tecnologico de Monterrey Campus Guadalajara, I am constantly seeking out opportunities to push myself out of my comfort zone and grow as a professional. This drive for personal and professional development led me to an internship at Meta as a Meta University Engineer and also in Google as a STEP intern, where I was able to apply my technical skills and problem-solving abilities to real-world projects. 
 
 I am highly ambitious and always looking for ways to challenge myself and make the most of every opportunity that comes my way. I believe that my strong work ethic and commitment to continuous learning will allow me to excel in any role I take on.
 
